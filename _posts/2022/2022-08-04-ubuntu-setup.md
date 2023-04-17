@@ -9,26 +9,40 @@ keywords: macOS,Tool
 # zsh oh-my-zsh
 
 ```sh
-# install zsh
+#!/bin/bash
+
+# Install zsh
+echo "Installing zsh..."
 echo $SHELL
 cat /etc/shells
 apt update && apt install zsh -y
 chsh -s /bin/zsh
-reboot
 
-# install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# Start zsh shell in the current terminal
+exec zsh
 
-# config oh-my-zsh
-vim ~/.zshrc # ZSH_THEME="bira"
+# Install oh-my-zsh
+echo "Installing oh-my-zsh..."
+YES=1 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# Configure oh-my-zsh
+echo "Configuring oh-my-zsh..."
+sed -i 's/^ZSH_THEME=.*/ZSH_THEME="bira"/' ~/.zshrc
 source ~/.zshrc
 
+# Install zsh plugins
+echo "Installing zsh plugins..."
 git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-vim ~/.zshrc # plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
-alias gitpull="git pull"
-alias gp="git add . && git commit -m 'build' && git push
-source ~/.zshrc 
+sed -i 's/^plugins=(.*/plugins=(git zsh-syntax-highlighting zsh-autosuggestions)/' ~/.zshrc
+
+# Add aliases
+echo "Adding aliases..."
+echo 'alias gitpull="git pull"' >> ~/.zshrc
+echo 'alias gp="git add . && git commit -m '\''build'\'' && git push"' >> ~/.zshrc
+source ~/.zshrc
+
+echo "Initialization completed!"
 ```
 
 apt-get install net-tools
@@ -46,7 +60,7 @@ set encoding=utf-8
 
 ssh-keygen -t ed25519 -C "hoferbao@gmail.com"
 
-vim .ssh/config
+vim ~/.ssh/config
 
 ```
 Host *
