@@ -12,6 +12,7 @@ keywords: macOS,Tool
 #!/bin/bash
 
 # Install zsh
+apt update
 echo "Installing zsh..."
 echo $SHELL
 cat /etc/shells
