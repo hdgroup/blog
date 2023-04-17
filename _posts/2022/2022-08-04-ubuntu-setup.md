@@ -43,19 +43,25 @@ echo 'alias gp="git add . && git commit -m '\''build'\'' && git push"' >> ~/.zsh
 source ~/.zshrc
 
 echo "Initialization completed!"
+
+sed -i 's/^#ClientAliveInterval.*/ClientAliveInterval 120/' /etc/ssh/sshd_config
+sed -i 's/^#ClientAliveCountMax.*/ClientAliveCountMax 720/' /etc/ssh/sshd_config
+systemctl restart ssh
 ```
 
 apt-get install net-tools
 
 # 解决 vi 中文乱码问题
 
-vim /etc/vim/vimrc  
+vim /etc/vim/vimrc
 在文件结尾处增加如下三行设置
 
 ```
+
 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
 set fileencoding=utf-8
 set encoding=utf-8
+
 ```
 
 ssh-keygen -t ed25519 -C "hoferbao@gmail.com"
@@ -63,7 +69,13 @@ ssh-keygen -t ed25519 -C "hoferbao@gmail.com"
 vim ~/.ssh/config
 
 ```
-Host *
-  AddKeysToAgent yes
-  IdentityFile ~/.ssh/pk
+
+Host \*
+AddKeysToAgent yes
+IdentityFile ~/.ssh/pk
+
+```
+
+```
+
 ```
