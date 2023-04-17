@@ -76,7 +76,3 @@ AddKeysToAgent yes
 IdentityFile ~/.ssh/pk
 
 ```
-
-```
-
-```
