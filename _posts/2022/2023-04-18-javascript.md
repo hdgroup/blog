@@ -9,6 +9,9 @@ keywords: js
 > [Atwood’s Law](https://blog.codinghorror.com/the-principle-of-least-power/):Any application that can be written in JavaScript, will eventually be written in JavaScript.  
 > — [Jeff Atwood](https://blog.codinghorror.com/about-me/)
 
+> The strength of JavaScript is that you can do anything. The weakness is that you will.
+> — Reg Braithwaite
+
 > 能用 JavaScript 写的最终都会用 TypeScript 写。
 
 udemy course  
