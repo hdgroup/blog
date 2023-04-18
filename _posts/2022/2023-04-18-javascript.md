@@ -14,6 +14,10 @@ keywords: js
 
 > 能用 JavaScript 写的最终都会用 TypeScript 写。
 
+# 前端名人堂
+
+[尤雨溪](https://twitter.com/youyuxi)
+
 udemy course  
 [https://www.bilibili.com/video/BV1vA4y197C7/](https://www.bilibili.com/video/BV1vA4y197C7/)  
 [https://github.com/jonasschmedtmann/complete-javascript-course/](https://github.com/jonasschmedtmann/complete-javascript-course/)
