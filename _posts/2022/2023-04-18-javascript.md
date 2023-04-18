@@ -6,8 +6,10 @@ description: js
 keywords: js
 ---
 
-> Any application that can be written in JavaScript, will eventually be written in JavaScript.  
-> — [Atwood’s Law](https://blog.codinghorror.com/the-principle-of-least-power/)
+> [Atwood’s Law](https://blog.codinghorror.com/the-principle-of-least-power/):Any application that can be written in JavaScript, will eventually be written in JavaScript.  
+> —[Jeff Atwood](https://blog.codinghorror.com/about-me/)
+
+> 能用 JavaScript 写的最终都会用 TypeScript 写。
 
 udemy course  
 [https://www.bilibili.com/video/BV1vA4y197C7/](https://www.bilibili.com/video/BV1vA4y197C7/)  
