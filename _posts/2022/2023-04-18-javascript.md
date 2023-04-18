@@ -16,7 +16,7 @@ keywords: js
 
 # 前端名人堂
 
-[尤雨溪](https://twitter.com/youyuxi)
+[尤雨溪](https://twitter.com/youyuxi) [贺师俊](https://github.com/hax/heshijun_v_360)
 
 udemy course  
 [https://www.bilibili.com/video/BV1vA4y197C7/](https://www.bilibili.com/video/BV1vA4y197C7/)  
