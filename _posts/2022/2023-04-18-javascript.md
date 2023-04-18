@@ -10,7 +10,7 @@ keywords: js
 > — [Jeff Atwood](https://blog.codinghorror.com/about-me/)
 
 > The strength of JavaScript is that you can do anything. The weakness is that you will.  
-> — [Reg Braithwaite](https://raganwald.com/2017/10/17/any-application-that-can-be-written-in-javascript-will-eventually-be-written-in-javascript.html)
+> — [Reg Braithwaite](https://raganwald.com/)
 
 > 能用 JavaScript 写的最终都会用 TypeScript 写。
 
