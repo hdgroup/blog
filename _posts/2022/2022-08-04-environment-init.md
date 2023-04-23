@@ -15,6 +15,8 @@ Xcode Visual Studio Code
 iTerm  
 brew
 
+`LXGW WenKai Mono`
+
 ## zsh oh-my-zsh
 
 ```sh
