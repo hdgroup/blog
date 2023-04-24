@@ -78,8 +78,6 @@
   
   
   
-  
-  
 
   
     {
@@ -91,14 +89,6 @@
     } ,
   
     {
-      "title"    : "VS Code Tips",
-      "category" : "Tool",
-      
-      "url"      : "http://localhost:4000/vscode-tips/",
-      "keywords" : "VSCode,Tool"
-    } ,
-  
-    {
       "title"    : "Quotes",
       "category" : "quotes",
       
@@ -107,35 +97,11 @@
     } ,
   
     {
-      "title"    : "Ubuntu Setup",
+      "title"    : "Environment Init",
       "category" : "Tool",
       
-      "url"      : "http://localhost:4000/ubuntu-setup/",
+      "url"      : "http://localhost:4000/environment-init/",
       "keywords" : "macOS,Tool"
-    } ,
-  
-    {
-      "title"    : "IntelliJ IDEA Setup",
-      "category" : "Tool",
-      
-      "url"      : "http://localhost:4000/idea-setup/",
-      "keywords" : "Tool"
-    } ,
-  
-    {
-      "title"    : "macOS Setup",
-      "category" : "Tool",
-      
-      "url"      : "http://localhost:4000/macos-setup/",
-      "keywords" : "macOS,Tool"
-    } ,
-  
-    {
-      "title"    : "Windows Setup",
-      "category" : "Tool",
-      
-      "url"      : "http://localhost:4000/windows-setup/",
-      "keywords" : "Windows,Tool"
     } ,
   
     {
@@ -155,14 +121,6 @@
     } ,
   
     {
-      "title"    : "什么塑造了今天的编程世界",
-      "category" : "history",
-      
-      "url"      : "http://localhost:4000/an-illustrated-history-of-programming/",
-      "keywords" : "history"
-    } ,
-  
-    {
       "title"    : "计算机科学入门",
       "category" : "cs",
       
@@ -176,6 +134,22 @@
       
       "url"      : "http://localhost:4000/mit6-824/",
       "keywords" : "cs"
+    } ,
+  
+    {
+      "title"    : "JavaScript",
+      "category" : "js",
+      
+      "url"      : "http://localhost:4000/javascript/",
+      "keywords" : "js"
+    } ,
+  
+    {
+      "title"    : "AI101",
+      "category" : "AI",
+      
+      "url"      : "http://localhost:4000/ai101/",
+      "keywords" : "AI"
     } ,
   
     {

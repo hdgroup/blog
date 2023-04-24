@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-11T15:26:46+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hofer’s Blog</title><subtitle>编程随想</subtitle><author><name>Hofer</name></author><entry><title type="html">6.824 Distributed Systems</title><link href="http://localhost:4000/mit6-824/" rel="alternate" type="text/html" title="6.824 Distributed Systems" /><published>2022-10-09T00:00:00+08:00</published><updated>2022-10-09T00:00:00+08:00</updated><id>http://localhost:4000/mit6-824</id><content type="html" xml:base="http://localhost:4000/mit6-824/">&lt;p&gt;课程主页&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-24T12:44:35+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hofer’s Blog</title><subtitle>编程随想</subtitle><author><name>Hofer</name></author><entry><title type="html">AI101</title><link href="http://localhost:4000/ai101/" rel="alternate" type="text/html" title="AI101" /><published>2023-04-19T00:00:00+08:00</published><updated>2023-04-19T00:00:00+08:00</updated><id>http://localhost:4000/ai101</id><content type="html" xml:base="http://localhost:4000/ai101/">&lt;h1 id=&quot;chatcpt-的两个优势&quot;&gt;ChatCPT 的两个优势&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;产品形态：人类已经适应了对话框（RTFM、Google）&lt;/li&gt;
+  &lt;li&gt;数据质量&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;总结：当前 ChatGPT 的一个最大应用：一个更好用的搜索引擎&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img2023.cnblogs.com/blog/120296/202304/120296-20230413212715449-792849795.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/ghj1976/p/ren-gong-zhi-neng-de-san-da-xue-pai.html&quot;&gt;人工智能的三大学派&lt;/a&gt;&lt;br /&gt;
+符号主义、连接主义、行为主义&lt;br /&gt;
+symbolicism connectionism actionism&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Ny4y1v7Aw/&quot;&gt;https://www.bilibili.com/video/BV1Ny4y1v7Aw/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;视频&quot;&gt;视频&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/SdZCOVaaVds&quot;&gt;https://youtu.be/SdZCOVaaVds&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://youtu.be/ZFnN-sMK7GU&quot;&gt;https://youtu.be/ZFnN-sMK7GU&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;书籍&quot;&gt;书籍&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lib.delia.love/a-brief-history-of-artificial-intelligence/&quot;&gt;https://lib.delia.love/a-brief-history-of-artificial-intelligence/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;人物&quot;&gt;人物&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://evjang.com/&quot;&gt;Eric Jang&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="AI" /><summary type="html">ChatCPT 的两个优势</summary></entry><entry><title type="html">JavaScript</title><link href="http://localhost:4000/javascript/" rel="alternate" type="text/html" title="JavaScript" /><published>2023-04-18T00:00:00+08:00</published><updated>2023-04-18T00:00:00+08:00</updated><id>http://localhost:4000/javascript</id><content type="html" xml:base="http://localhost:4000/javascript/">&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://blog.codinghorror.com/the-principle-of-least-power/&quot;&gt;Atwood’s Law&lt;/a&gt;:Any application that can be written in JavaScript, will eventually be written in JavaScript.&lt;br /&gt;
+— &lt;a href=&quot;https://blog.codinghorror.com/about-me/&quot;&gt;Jeff Atwood&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The strength of JavaScript is that you can do anything. The weakness is that you will.&lt;br /&gt;
+— &lt;a href=&quot;https://raganwald.com/&quot;&gt;Reg Braithwaite&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;能用 JavaScript 写的最终都会用 TypeScript 写。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;前端名人堂&quot;&gt;前端名人堂&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/youyuxi&quot;&gt;尤雨溪&lt;/a&gt; &lt;a href=&quot;https://github.com/hax/heshijun_v_360&quot;&gt;贺师俊&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;udemy course&lt;br /&gt;
+&lt;a href=&quot;https://www.bilibili.com/video/BV1vA4y197C7/&quot;&gt;https://www.bilibili.com/video/BV1vA4y197C7/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/jonasschmedtmann/complete-javascript-course/&quot;&gt;https://github.com/jonasschmedtmann/complete-javascript-course/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="js" /><summary type="html">Atwood’s Law:Any application that can be written in JavaScript, will eventually be written in JavaScript. — Jeff Atwood</summary></entry><entry><title type="html">6.824 Distributed Systems</title><link href="http://localhost:4000/mit6-824/" rel="alternate" type="text/html" title="6.824 Distributed Systems" /><published>2022-10-09T00:00:00+08:00</published><updated>2022-10-09T00:00:00+08:00</updated><id>http://localhost:4000/mit6-824</id><content type="html" xml:base="http://localhost:4000/mit6-824/">&lt;p&gt;课程主页&lt;br /&gt;
 &lt;a href=&quot;https://pdos.csail.mit.edu/6.824/index.html&quot;&gt;https://pdos.csail.mit.edu/6.824/index.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;csail&lt;br /&gt;
@@ -7,74 +55,9 @@
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/av87684880/&quot;&gt;https://www.bilibili.com/video/av87684880/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="cs" /><summary type="html">课程主页 https://pdos.csail.mit.edu/6.824/index.html</summary></entry><entry><title type="html">计算机科学入门</title><link href="http://localhost:4000/cs101/" rel="alternate" type="text/html" title="计算机科学入门" /><published>2022-10-08T00:00:00+08:00</published><updated>2022-10-08T00:00:00+08:00</updated><id>http://localhost:4000/cs101</id><content type="html" xml:base="http://localhost:4000/cs101/">&lt;p&gt;&lt;a href=&quot;https://www.kawabangga.com/collection&quot;&gt;https://www.kawabangga.com/collection&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://teachyourselfcs.com/&quot;&gt;https://teachyourselfcs.com/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://csdiy.wiki/&quot;&gt;https://csdiy.wiki/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://learn.lianglianglee.com/&quot;&gt;https://learn.lianglianglee.com/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="cs" /><summary type="html">https://www.kawabangga.com/collection https://teachyourselfcs.com/ https://csdiy.wiki/ https://learn.lianglianglee.com/</summary></entry><entry><title type="html">科学上网</title><link href="http://localhost:4000/1984/" rel="alternate" type="text/html" title="科学上网" /><published>2022-09-05T00:00:00+08:00</published><updated>2022-09-05T00:00:00+08:00</updated><id>http://localhost:4000/1984</id><content type="html" xml:base="http://localhost:4000/1984/">&lt;h1 id=&quot;read&quot;&gt;Read&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/haoel/haoel.github.io&quot;&gt;https://github.com/haoel/haoel.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Read https://github.com/haoel/haoel.github.io</summary></entry><entry><title type="html">什么塑造了今天的编程世界</title><link href="http://localhost:4000/an-illustrated-history-of-programming/" rel="alternate" type="text/html" title="什么塑造了今天的编程世界" /><published>2022-09-05T00:00:00+08:00</published><updated>2022-09-05T00:00:00+08:00</updated><id>http://localhost:4000/an-illustrated-history-of-programming</id><content type="html" xml:base="http://localhost:4000/an-illustrated-history-of-programming/">&lt;p&gt;西乔&amp;amp;霍炬&lt;/p&gt;
-
-&lt;h1 id=&quot;第1季度&quot;&gt;第1季度&lt;/h1&gt;
-&lt;h2 id=&quot;1822年-差分机和分析机&quot;&gt;1822年 差分机和分析机&lt;/h2&gt;
-&lt;p&gt;计算机的起源至少可追溯到 19 世纪，英国数学家查尔斯·巴贝奇(Charles Babbage)梦想用蒸汽驱动计算。他发明的第一台计算机器——差分机，预计完工需要 25000 个零件，重达 4000 千克，然而耗时近 10 年却只制造完成了 1/7。&lt;/p&gt;
-
-&lt;h2 id=&quot;1843年-ada最早的程序员&quot;&gt;1843年 Ada——最早的程序员&lt;/h2&gt;
-&lt;h2 id=&quot;1936年-图灵机&quot;&gt;1936年 图灵机&lt;/h2&gt;
-&lt;h2 id=&quot;1938年-可编程数字计算机z1和高级编程语言plankalkül&quot;&gt;1938年 可编程数字计算机Z1和高级编程语言Plankalkül&lt;/h2&gt;
-&lt;h2 id=&quot;1945年-冯诺依曼体系结构&quot;&gt;1945年 冯·诺依曼体系结构&lt;/h2&gt;
-&lt;h2 id=&quot;1940年代-首台可编程的电子计算机eniac&quot;&gt;1940年代 首台可编程的电子计算机ENIAC&lt;/h2&gt;
-&lt;h2 id=&quot;1949年-威尔克斯和微程序设计&quot;&gt;1949年 威尔克斯和微程序设计&lt;/h2&gt;
-&lt;h2 id=&quot;1951年-汇编器诞生了&quot;&gt;1951年 汇编器诞生了&lt;/h2&gt;
-&lt;h2 id=&quot;1957年-巴克斯和fortran语言&quot;&gt;1957年 巴克斯和Fortran语言&lt;/h2&gt;
-&lt;h2 id=&quot;1958年-人工智能之父和lisp语言&quot;&gt;1958年 人工智能之父和Lisp语言&lt;/h2&gt;
-&lt;h2 id=&quot;1960年代-第一代程序员们&quot;&gt;1960年代 第一代程序员们&lt;/h2&gt;
-&lt;h2 id=&quot;1964年-用80列打孔卡编程的年代&quot;&gt;1964年 用80列打孔卡编程的年代&lt;/h2&gt;
-&lt;h2 id=&quot;1964年-编程的普及和basic语言的问世&quot;&gt;1964年 编程的普及和Basic语言的问世&lt;/h2&gt;
-&lt;h2 id=&quot;1966年-数据库管理系统的出现&quot;&gt;1966年 数据库管理系统的出现&lt;/h2&gt;
-
-&lt;h1 id=&quot;第2季度&quot;&gt;第2季度&lt;/h1&gt;
-&lt;h2 id=&quot;1967年-面向对象语言的诞生&quot;&gt;1967年 面向对象语言的诞生&lt;/h2&gt;
-&lt;h2 id=&quot;1968年-高德纳和taocp&quot;&gt;1968年 高德纳和《TAOCP》&lt;/h2&gt;
-&lt;h2 id=&quot;1968年-go-to语句有害论之争&quot;&gt;1968年 《Go To语句有害论》之争&lt;/h2&gt;
-&lt;h2 id=&quot;1969年-阿帕网和因特网的诞生&quot;&gt;1969年 阿帕网和因特网的诞生&lt;/h2&gt;
-&lt;h2 id=&quot;1970年-unix-epoch-time&quot;&gt;1970年 Unix epoch time&lt;/h2&gt;
-&lt;h2 id=&quot;1970年-沃斯和pascal语言&quot;&gt;1970年 沃斯和Pascal语言&lt;/h2&gt;
-&lt;h2 id=&quot;1970年-关系数据库的问世&quot;&gt;1970年 关系数据库的问世&lt;/h2&gt;
-&lt;h2 id=&quot;1971年-结构化编程被首次提出&quot;&gt;1971年 结构化编程被首次提出&lt;/h2&gt;
-&lt;h2 id=&quot;1972年-c语言&quot;&gt;1972年 C语言&lt;/h2&gt;
-&lt;h2 id=&quot;1973年-tcpip协议问世&quot;&gt;1973年 TCP/IP协议问世&lt;/h2&gt;
-&lt;h2 id=&quot;1974年-unix正式登上历史舞台&quot;&gt;1974年 Unix正式登上历史舞台&lt;/h2&gt;
-&lt;h2 id=&quot;1975年-人月神话和对软件工程的反思&quot;&gt;1975年 《人月神话》和对软件工程的反思&lt;/h2&gt;
-&lt;h2 id=&quot;1970年代-ide的发展&quot;&gt;1970年代 IDE的发展&lt;/h2&gt;
-&lt;h2 id=&quot;1980年代-unix战争&quot;&gt;1980年代 Unix战争&lt;/h2&gt;
-
-&lt;h1 id=&quot;第3季度&quot;&gt;第3季度&lt;/h1&gt;
-&lt;h2 id=&quot;1976年-非对称加密的发明&quot;&gt;1976年 非对称加密的发明&lt;/h2&gt;
-&lt;h2 id=&quot;1979年-软件测试的起点&quot;&gt;1979年 软件测试的起点&lt;/h2&gt;
-&lt;h2 id=&quot;1981年-个人计算机时代开始了&quot;&gt;1981年 个人计算机时代开始了&lt;/h2&gt;
-&lt;h2 id=&quot;1981年-gui的流行&quot;&gt;1981年 GUI的流行&lt;/h2&gt;
-&lt;h2 id=&quot;1983年-汉字操作系统和直接写屏&quot;&gt;1983年 汉字操作系统和直接写屏&lt;/h2&gt;
-&lt;h2 id=&quot;1985年-c语言&quot;&gt;1985年 C++语言&lt;/h2&gt;
-&lt;h2 id=&quot;1985年-rms发表gnu宣言&quot;&gt;1985年 RMS发表《GNU宣言》&lt;/h2&gt;
-&lt;h2 id=&quot;1987年-拉里沃尔和perl语言&quot;&gt;1987年 拉里·沃尔和Perl语言&lt;/h2&gt;
-&lt;h2 id=&quot;1990年-蒂姆伯纳斯和改变世界的万维网www&quot;&gt;1990年 蒂姆·伯纳斯和改变世界的万维网（WWW）&lt;/h2&gt;
-&lt;h2 id=&quot;1990年-范罗苏姆和python&quot;&gt;1990年 范罗苏姆和Python&lt;/h2&gt;
-&lt;h2 id=&quot;1991年-visual-basic语言&quot;&gt;1991年 Visual Basic语言&lt;/h2&gt;
-&lt;h2 id=&quot;1991年-linus和linux&quot;&gt;1991年 Linus和Linux&lt;/h2&gt;
-&lt;h2 id=&quot;1991年-pgp问世及随之而来麻烦&quot;&gt;1991年 PGP问世及随之而来麻烦&lt;/h2&gt;
-&lt;h2 id=&quot;1995年-詹姆斯戈斯林和java&quot;&gt;1995年 詹姆斯·戈斯林和Java&lt;/h2&gt;
-
-&lt;h1 id=&quot;第4季度&quot;&gt;第4季度&lt;/h1&gt;
-&lt;h2 id=&quot;1995年-java虚拟机带来的改变&quot;&gt;1995年 Java虚拟机带来的改变&lt;/h2&gt;
-&lt;h2 id=&quot;1995年-ruby和ror&quot;&gt;1995年 Ruby和ROR&lt;/h2&gt;
-&lt;h2 id=&quot;1995年-javascript语言&quot;&gt;1995年 JavaScript语言&lt;/h2&gt;
-&lt;h2 id=&quot;1995年-php和lamp&quot;&gt;1995年 PHP和LAMP&lt;/h2&gt;
-&lt;h2 id=&quot;1999年-p2p带来的可能性&quot;&gt;1999年 P2P带来的可能性&lt;/h2&gt;
-&lt;h2 id=&quot;2000年代-前端开发的壮大&quot;&gt;2000年代 前端开发的壮大&lt;/h2&gt;
-&lt;h2 id=&quot;2001年-敏捷宣言&quot;&gt;2001年 《敏捷宣言》&lt;/h2&gt;
-&lt;h2 id=&quot;2003年-llvm平台&quot;&gt;2003年 LLVM平台&lt;/h2&gt;
-&lt;h2 id=&quot;2005年-git和分布式开发&quot;&gt;2005年 Git和分布式开发&lt;/h2&gt;
-&lt;h2 id=&quot;2008年-app-vs-浏览器&quot;&gt;2008年 App VS 浏览器&lt;/h2&gt;
-&lt;h2 id=&quot;2009年-恰逢其时的go语言&quot;&gt;2009年 恰逢其时的Go语言&lt;/h2&gt;
-&lt;h2 id=&quot;2010年-rust语言&quot;&gt;2010年 Rust语言&lt;/h2&gt;
-&lt;h2 id=&quot;2013年-docker和kubernetes&quot;&gt;2013年 Docker和Kubernetes&lt;/h2&gt;
-&lt;h2 id=&quot;2014年-html5标准-vs-app生态&quot;&gt;2014年 HTML5标准 VS App生态&lt;/h2&gt;</content><author><name>Hofer</name></author><category term="history" /><summary type="html">西乔&amp;amp;霍炬</summary></entry><entry><title type="html">编程随想｜扫盲 HTTPS 和 SSL/TLS 协议</title><link href="http://localhost:4000/https-program-think/" rel="alternate" type="text/html" title="编程随想｜扫盲 HTTPS 和 SSL/TLS 协议" /><published>2022-08-16T00:00:00+08:00</published><updated>2022-08-16T00:00:00+08:00</updated><id>http://localhost:4000/https-program-think</id><content type="html" xml:base="http://localhost:4000/https-program-think/">&lt;p&gt;原文链接 &lt;a href=&quot;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&quot;&gt;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://learn.lianglianglee.com/&quot;&gt;https://learn.lianglianglee.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.koudaizy.com/&quot;&gt;https://www.koudaizy.com/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="cs" /><summary type="html">https://www.kawabangga.com/collection https://teachyourselfcs.com/ https://csdiy.wiki/ https://learn.lianglianglee.com/ https://www.koudaizy.com/</summary></entry><entry><title type="html">科学上网</title><link href="http://localhost:4000/1984/" rel="alternate" type="text/html" title="科学上网" /><published>2022-09-05T00:00:00+08:00</published><updated>2022-09-05T00:00:00+08:00</updated><id>http://localhost:4000/1984</id><content type="html" xml:base="http://localhost:4000/1984/">&lt;h1 id=&quot;read&quot;&gt;Read&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/haoel/haoel.github.io&quot;&gt;https://github.com/haoel/haoel.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Read https://github.com/haoel/haoel.github.io</summary></entry><entry><title type="html">编程随想｜扫盲 HTTPS 和 SSL/TLS 协议</title><link href="http://localhost:4000/https-program-think/" rel="alternate" type="text/html" title="编程随想｜扫盲 HTTPS 和 SSL/TLS 协议" /><published>2022-08-16T00:00:00+08:00</published><updated>2022-08-16T00:00:00+08:00</updated><id>http://localhost:4000/https-program-think</id><content type="html" xml:base="http://localhost:4000/https-program-think/">&lt;p&gt;原文链接 &lt;a href=&quot;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&quot;&gt;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;引子&quot;&gt;引子&lt;/h1&gt;
 
@@ -965,64 +948,19 @@ Fatal 表示通讯出现【不可靠】的情况（比如：证书失效、数�
 所谓的【心跳】，主要用来确认“通讯的对端”依然正常。在 SSL/TLS 连接建立之后，有可能在某些情况下出现【通讯空闲】（上层的协议在某个时间段没有数据传输）。这时候就需要依靠【心跳机制】来判断对方是否还活着。&lt;br /&gt;
 由于“心跳”的传输是在加密信道建立【之后】，所以“心跳”的 record 也是加密滴。&lt;br /&gt;
 关于这个心跳机制的技术细节，请参见 RFC6520（链接在“这里”）。&lt;br /&gt;
-这个心跳协议的 RFC 发布于 2012 年（晚于 2008 年的 TLS 1.2），因此目前只有 TLS 1.3 版本才支持它。&lt;/p&gt;</content><author><name>Hofer</name></author><category term="HTTPS" /><summary type="html">原文链接 https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html</summary></entry><entry><title type="html">Windows Setup</title><link href="http://localhost:4000/windows-setup/" rel="alternate" type="text/html" title="Windows Setup" /><published>2022-08-11T00:00:00+08:00</published><updated>2022-08-11T00:00:00+08:00</updated><id>http://localhost:4000/%20windows-setup</id><content type="html" xml:base="http://localhost:4000/windows-setup/">&lt;h1 id=&quot;apps&quot;&gt;Apps&lt;/h1&gt;
-&lt;h2 id=&quot;office365&quot;&gt;Office365&lt;/h2&gt;
-&lt;p&gt;macOS去App Store搜：office365，进行下载安装即可&lt;br /&gt;
-windows 10、windows11 office365官网下载地址：&lt;br /&gt;
-下载链接：&lt;br /&gt;
-&lt;a href=&quot;https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img&quot;&gt;https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img&lt;/a&gt;&lt;/p&gt;
+这个心跳协议的 RFC 发布于 2012 年（晚于 2008 年的 TLS 1.2），因此目前只有 TLS 1.3 版本才支持它。&lt;/p&gt;</content><author><name>Hofer</name></author><category term="HTTPS" /><summary type="html">原文链接 https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html</summary></entry><entry><title type="html">Environment Init</title><link href="http://localhost:4000/environment-init/" rel="alternate" type="text/html" title="Environment Init" /><published>2022-08-04T00:00:00+08:00</published><updated>2022-08-04T00:00:00+08:00</updated><id>http://localhost:4000/environment-init</id><content type="html" xml:base="http://localhost:4000/environment-init/">&lt;h1 id=&quot;macos&quot;&gt;macOS&lt;/h1&gt;
 
-&lt;p&gt;Win系统安装激活步骤：&lt;br /&gt;
-1.复制链接到浏览器地址栏下载；
-2.找到下载的文件鼠标右键，有装载选择装载，没有就选择“解压到Pro…”
-3.双击setup开始安装；
-4.安装完成后打开word软件，在弹出的窗口点击“我不想登录或创建帐户”
-5.登录账号。&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;账号：of29611@of365.ru
-密码：vSDAgYa5@-Aa-Key
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;apps&quot;&gt;Apps&lt;/h2&gt;
 
-&lt;h1 id=&quot;激活&quot;&gt;激活&lt;/h1&gt;
-&lt;h2 id=&quot;win10-专业版&quot;&gt;win10 专业版&lt;/h2&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6KGHG-6QV22-47MDP-VB8GB-VQ7DM
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;激活方式：&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;点此电脑/计算机右键-属性-拉到下面点激活或者更改产品秘钥-输入秘钥&lt;/li&gt;
-  &lt;li&gt;点开始菜单-设置-更新与安全-激活或者更改产品秘钥-输入秘钥&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;错误代码末尾 028  efd ，ee2，ee7等代码 是网络拥堵，重复输入几次即可错误代码1023是打错密钥，显示210的错误代码是版本不对&lt;/p&gt;
-
-&lt;h2 id=&quot;win11-专业版&quot;&gt;win11 专业版&lt;/h2&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6KGHG-6QV22-47MDP-VB8GB-VQ7DM
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;点开始菜单-设置-激活或者更改产品秘钥-输入秘钥&lt;br /&gt;
-错误代码末尾 028  efd ，ee2，ee7等代码 是网络拥堵，重复输入几次即可错误代码1023是打错密钥，显示210的错误代码是版本不对&lt;/p&gt;
-
-&lt;h1 id=&quot;apps-1&quot;&gt;Apps&lt;/h1&gt;
-&lt;p&gt;CleanMyMac&lt;/p&gt;
-
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Apps Office365 macOS去App Store搜：office365，进行下载安装即可 windows 10、windows11 office365官网下载地址： 下载链接： https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img</summary></entry><entry><title type="html">IntelliJ IDEA Setup</title><link href="http://localhost:4000/idea-setup/" rel="alternate" type="text/html" title="IntelliJ IDEA Setup" /><published>2022-08-05T00:00:00+08:00</published><updated>2022-08-05T00:00:00+08:00</updated><id>http://localhost:4000/idea-setup</id><content type="html" xml:base="http://localhost:4000/idea-setup/">&lt;h1 id=&quot;preferences&quot;&gt;Preferences&lt;/h1&gt;
-&lt;h2 id=&quot;fonts&quot;&gt;fonts&lt;/h2&gt;
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Appearance &amp;amp; Behavior&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Appearance&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Use custom font&lt;/code&gt;&lt;br /&gt;
-LXGW Wenkai Mono 16&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Font&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Font&lt;/code&gt;&lt;br /&gt;
-LXGW Wenkai Mono 18&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Color Scheme&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Console Font&lt;/code&gt;&lt;br /&gt;
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Use console font instead of the default&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;whitespace&quot;&gt;whitespace&lt;/h2&gt;
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;General&lt;/code&gt; - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Appearance&lt;/code&gt;&lt;br /&gt;
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Show whitespaces&lt;/code&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Preferences fonts Appearance &amp;amp; Behavior - Appearance - Use custom font LXGW Wenkai Mono 16</summary></entry><entry><title type="html">macOS Setup</title><link href="http://localhost:4000/macos-setup/" rel="alternate" type="text/html" title="macOS Setup" /><published>2022-08-05T00:00:00+08:00</published><updated>2022-08-05T00:00:00+08:00</updated><id>http://localhost:4000/macos-setup</id><content type="html" xml:base="http://localhost:4000/macos-setup/">&lt;h1 id=&quot;apps&quot;&gt;Apps&lt;/h1&gt;
 &lt;p&gt;RunCat Magnet Insomniacs&lt;br /&gt;
 Xcode Visual Studio Code&lt;br /&gt;
 iTerm&lt;br /&gt;
 brew&lt;/p&gt;
 
-&lt;h1 id=&quot;zsh-oh-my-zsh&quot;&gt;zsh oh-my-zsh&lt;/h1&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LXGW WenKai Mono&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;zsh-oh-my-zsh&quot;&gt;zsh oh-my-zsh&lt;/h2&gt;
+
 &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# install oh-my-zsh&lt;/span&gt;
 sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 
@@ -1036,43 +974,166 @@ vim ~/.zshrc &lt;span class=&quot;c&quot;&gt;# plugins=(git zsh-syntax-highlight
 &lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/.zshrc 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;fonts&quot;&gt;Fonts&lt;/h1&gt;
+&lt;h2 id=&quot;fonts&quot;&gt;Fonts&lt;/h2&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://github.com/lxgw/LxgwWenKai&quot;&gt;https://github.com/lxgw/LxgwWenKai&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/xiaolai/apple-computer-literacy&quot;&gt;https://github.com/xiaolai/apple-computer-literacy&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Apps RunCat Magnet Insomniacs Xcode Visual Studio Code iTerm brew</summary></entry><entry><title type="html">Ubuntu Setup</title><link href="http://localhost:4000/ubuntu-setup/" rel="alternate" type="text/html" title="Ubuntu Setup" /><published>2022-08-04T00:00:00+08:00</published><updated>2022-08-04T00:00:00+08:00</updated><id>http://localhost:4000/ubuntu-setup</id><content type="html" xml:base="http://localhost:4000/ubuntu-setup/">&lt;h1 id=&quot;zsh-oh-my-zsh&quot;&gt;zsh oh-my-zsh&lt;/h1&gt;
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# install zsh&lt;/span&gt;
+&lt;h2 id=&quot;vscode&quot;&gt;VSCode&lt;/h2&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/xiaolai/apple-computer-literacy&quot;&gt;https://github.com/xiaolai/apple-computer-literacy&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ubuntu&quot;&gt;Ubuntu&lt;/h1&gt;
+
+&lt;h2 id=&quot;zsh-oh-my-zsh-1&quot;&gt;zsh oh-my-zsh&lt;/h2&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#!/bin/bash&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Install zsh&lt;/span&gt;
+apt update
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Installing zsh...&quot;&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$SHELL&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;cat&lt;/span&gt; /etc/shells
 apt update &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;zsh &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt;
 chsh &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; /bin/zsh
-reboot
 
-&lt;span class=&quot;c&quot;&gt;# install oh-my-zsh&lt;/span&gt;
-sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# Start zsh shell in the current terminal&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;zsh
 
-&lt;span class=&quot;c&quot;&gt;# config oh-my-zsh&lt;/span&gt;
-vim ~/.zshrc &lt;span class=&quot;c&quot;&gt;# ZSH_THEME=&quot;bira&quot;&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# Install oh-my-zsh&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Installing oh-my-zsh...&quot;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;YES&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1 sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Configure oh-my-zsh&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Configuring oh-my-zsh...&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;s/^ZSH_THEME=.*/ZSH_THEME=&quot;bira&quot;/&apos;&lt;/span&gt; ~/.zshrc
 &lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/.zshrc
 
+&lt;span class=&quot;c&quot;&gt;# Install zsh plugins&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Installing zsh plugins...&quot;&lt;/span&gt;
 git clone https://github.com/zsh-users/zsh-autosuggestions.git &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;ZSH_CUSTOM&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;~/.oh-my-zsh/custom&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;ZSH_CUSTOM&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;~/.oh-my-zsh/custom&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;/plugins/zsh-syntax-highlighting
-vim ~/.zshrc &lt;span class=&quot;c&quot;&gt;# plugins=(git zsh-syntax-highlighting zsh-autosuggestions)&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;alias &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;gitpull&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;git pull&quot;&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;alias &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;gp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;git add . &amp;amp;&amp;amp; git commit -m &apos;build&apos; &amp;amp;&amp;amp; git push
-source ~/.zshrc 
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;span class=&quot;nb&quot;&gt;sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;s/^plugins=(.*/plugins=(git zsh-syntax-highlighting zsh-autosuggestions)/&apos;&lt;/span&gt; ~/.zshrc
+
+&lt;span class=&quot;c&quot;&gt;# Add aliases&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Adding aliases...&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;alias gitpull=&quot;git pull&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.zshrc
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;alias gp=&quot;git add . &amp;amp;&amp;amp; git commit -m &apos;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;build&apos;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos; &amp;amp;&amp;amp; git push&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.zshrc
+&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/.zshrc
+
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Initialization completed!&quot;&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;s/^#ClientAliveInterval.*/ClientAliveInterval 120/&apos;&lt;/span&gt; /etc/ssh/sshd_config
+&lt;span class=&quot;nb&quot;&gt;sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;s/^#ClientAliveCountMax.*/ClientAliveCountMax 720/&apos;&lt;/span&gt; /etc/ssh/sshd_config
+systemctl restart ssh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;apt-get install net-tools&lt;/p&gt;
 
-&lt;h1 id=&quot;解决-vi-中文乱码问题&quot;&gt;解决 vi 中文乱码问题&lt;/h1&gt;
-&lt;p&gt;vim /etc/vim/vimrc&lt;br /&gt;
+&lt;h2 id=&quot;解决-vi-中文乱码问题&quot;&gt;解决 vi 中文乱码问题&lt;/h2&gt;
+
+&lt;p&gt;vim /etc/vim/vimrc
 在文件结尾处增加如下三行设置&lt;/p&gt;
+
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
 set fileencoding=utf-8
 set encoding=utf-8
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">zsh oh-my-zsh ```sh install zsh echo $SHELL cat /etc/shells apt update &amp;amp;&amp;amp; apt install zsh -y chsh -s /bin/zsh reboot</summary></entry><entry><title type="html">Quotes</title><link href="http://localhost:4000/quotes/" rel="alternate" type="text/html" title="Quotes" /><published>2022-08-03T00:00:00+08:00</published><updated>2022-08-03T00:00:00+08:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes/">&lt;p&gt;从小开始，我就拒绝接受没有弄明白的道理。～&lt;a href=&quot;https://program-think.blogspot.com/https://blog.codingnow.com/2007/08/e.html&quot;&gt;云风&lt;/a&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;ssh-keygen -t ed25519 -C “hoferbao@gmail.com”&lt;/p&gt;
+
+&lt;p&gt;vim ~/.ssh/config&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Host *
+    AddKeysToAgent yes
+    IdentityFile ~/.ssh/pk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;windows&quot;&gt;Windows&lt;/h1&gt;
+
+&lt;h2 id=&quot;apps-1&quot;&gt;Apps&lt;/h2&gt;
+
+&lt;h3 id=&quot;office365&quot;&gt;Office365&lt;/h3&gt;
+
+&lt;p&gt;macOS 去 App Store 搜：office365，进行下载安装即可&lt;br /&gt;
+windows 10、windows11 office365 官网下载地址：&lt;br /&gt;
+下载链接：&lt;br /&gt;
+&lt;a href=&quot;https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img&quot;&gt;https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Win 系统安装激活步骤：&lt;br /&gt;
+1.复制链接到浏览器地址栏下载； 2.找到下载的文件鼠标右键，有装载选择装载，没有就选择“解压到 Pro…” 3.双击 setup 开始安装； 4.安装完成后打开 word 软件，在弹出的窗口点击“我不想登录或创建帐户” 5.登录账号。&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;账号：of29611@of365.ru
+密码：vSDAgYa5@-Aa-Key
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;激活&quot;&gt;激活&lt;/h2&gt;
+
+&lt;h3 id=&quot;win10-专业版&quot;&gt;win10 专业版&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6KGHG-6QV22-47MDP-VB8GB-VQ7DM
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;激活方式：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;点此电脑/计算机右键-属性-拉到下面点激活或者更改产品秘钥-输入秘钥&lt;/li&gt;
+  &lt;li&gt;点开始菜单-设置-更新与安全-激活或者更改产品秘钥-输入秘钥&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;错误代码末尾 028 efd ，ee2，ee7 等代码 是网络拥堵，重复输入几次即可错误代码 1023 是打错密钥，显示 210 的错误代码是版本不对&lt;/p&gt;
+
+&lt;h3 id=&quot;win11-专业版&quot;&gt;win11 专业版&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6KGHG-6QV22-47MDP-VB8GB-VQ7DM
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;点开始菜单-设置-激活或者更改产品秘钥-输入秘钥&lt;br /&gt;
+错误代码末尾 028 efd ，ee2，ee7 等代码 是网络拥堵，重复输入几次即可错误代码 1023 是打错密钥，显示 210 的错误代码是版本不对&lt;/p&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">macOS</summary></entry><entry><title type="html">Quotes</title><link href="http://localhost:4000/quotes/" rel="alternate" type="text/html" title="Quotes" /><published>2022-08-03T00:00:00+08:00</published><updated>2022-08-03T00:00:00+08:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes/">&lt;p&gt;从小开始，我就拒绝接受没有弄明白的道理。～&lt;a href=&quot;https://program-think.blogspot.com/https://blog.codingnow.com/2007/08/e.html&quot;&gt;云风&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;相关网站&quot;&gt;相关网站&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://zh.wikiquote.org/&quot;&gt;https://zh.wikiquote.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://program-think.blogspot.com/2014/08/maxim.html&quot;&gt;https://program-think.blogspot.com/2014/08/maxim.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="quotes" /><summary type="html">从小开始，我就拒绝接受没有弄明白的道理。～云风</summary></entry></feed>
+&lt;a href=&quot;https://program-think.blogspot.com/2014/08/maxim.html&quot;&gt;https://program-think.blogspot.com/2014/08/maxim.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="quotes" /><summary type="html">从小开始，我就拒绝接受没有弄明白的道理。～云风</summary></entry><entry><title type="html">Java Roadmap</title><link href="http://localhost:4000/java-roadmap/" rel="alternate" type="text/html" title="Java Roadmap" /><published>2022-08-01T00:00:00+08:00</published><updated>2022-08-01T00:00:00+08:00</updated><id>http://localhost:4000/java-roadmap</id><content type="html" xml:base="http://localhost:4000/java-roadmap/">&lt;h1 id=&quot;多线程与高并发&quot;&gt;多线程与高并发&lt;/h1&gt;
+&lt;p&gt;进程、线程、协程&lt;br /&gt;
+并行、并发&lt;br /&gt;
+同步、异步&lt;br /&gt;
+死锁、饥饿、活锁&lt;br /&gt;
+线程安全&lt;br /&gt;
+Java内存模型 Java Memory Model JMM&lt;br /&gt;
+创建线程的三种方式&lt;br /&gt;
+1 继承 Thread 类&lt;br /&gt;
+2 实现 Runnable 接口&lt;br /&gt;
+3 使用线程池&lt;br /&gt;
+线程的状态 new、ready、running、block、dead&lt;/p&gt;
+
+&lt;p&gt;synchronized、ReentrantLock&lt;br /&gt;
+Semaphore、CountDownLatch、CyclicBarrier、Condition&lt;br /&gt;
+Callable、Future&lt;/p&gt;
+
+&lt;h1 id=&quot;缓存&quot;&gt;缓存&lt;/h1&gt;
+&lt;p&gt;缓存穿透、缓存击穿、缓存雪崩&lt;/p&gt;
+&lt;h2 id=&quot;redis&quot;&gt;Redis&lt;/h2&gt;
+&lt;p&gt;跳表&lt;/p&gt;
+
+&lt;h2 id=&quot;caffeine&quot;&gt;Caffeine&lt;/h2&gt;
+
+&lt;h1 id=&quot;大key&quot;&gt;大Key&lt;/h1&gt;
+&lt;p&gt;工具 rdb_bigkeys&lt;/p&gt;
+
+&lt;h1 id=&quot;算法&quot;&gt;算法&lt;/h1&gt;
+
+&lt;h1 id=&quot;分布式系统的一致性&quot;&gt;分布式系统的一致性&lt;/h1&gt;
+&lt;p&gt;zookeeper&lt;br /&gt;
+拜占庭将军问题&lt;br /&gt;
+paxos raft&lt;/p&gt;
+
+&lt;h1 id=&quot;分布式事务&quot;&gt;分布式事务&lt;/h1&gt;
+&lt;p&gt;Seata&lt;/p&gt;
+
+&lt;h1 id=&quot;状态机&quot;&gt;状态机&lt;/h1&gt;
+
+&lt;h1 id=&quot;more&quot;&gt;More&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alibaba/canal&quot;&gt;https://github.com/alibaba/canal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Hofer</name></author><category term="Java" /><summary type="html">多线程与高并发 进程、线程、协程 并行、并发 同步、异步 死锁、饥饿、活锁 线程安全 Java内存模型 Java Memory Model JMM 创建线程的三种方式 1 继承 Thread 类 2 实现 Runnable 接口 3 使用线程池 线程的状态 new、ready、running、block、dead</summary></entry></feed>
