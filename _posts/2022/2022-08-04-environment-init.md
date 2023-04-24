@@ -37,6 +37,8 @@ source ~/.zshrc 
 
 [https://github.com/lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
+## VSCode
+
 ## References
 
 [https://github.com/xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)
