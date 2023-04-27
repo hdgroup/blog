@@ -16,7 +16,8 @@ keywords: js
 
 # 关机词
 
-Webpack
+- npm init -y
+- Webpack
 
 # 前端名人堂
 
