@@ -89,6 +89,8 @@ sed -i 's/^#ClientAliveCountMax.*/ClientAliveCountMax 720/' /etc/ssh/sshd_config
 systemctl restart ssh
 ```
 
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+
 apt-get install net-tools
 
 ## 解决 vi 中文乱码问题
