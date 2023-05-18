@@ -1,11 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-24T12:44:35+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hofer’s Blog</title><subtitle>编程随想</subtitle><author><name>Hofer</name></author><entry><title type="html">AI101</title><link href="http://localhost:4000/ai101/" rel="alternate" type="text/html" title="AI101" /><published>2023-04-19T00:00:00+08:00</published><updated>2023-04-19T00:00:00+08:00</updated><id>http://localhost:4000/ai101</id><content type="html" xml:base="http://localhost:4000/ai101/">&lt;h1 id=&quot;chatcpt-的两个优势&quot;&gt;ChatCPT 的两个优势&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-15T00:28:03+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hofer’s Blog</title><subtitle>编程随想</subtitle><author><name>Hofer</name></author><entry><title type="html">12位助记词安全吗</title><link href="http://localhost:4000/128bits/" rel="alternate" type="text/html" title="12位助记词安全吗" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/128bits</id><content type="html" xml:base="http://localhost:4000/128bits/">&lt;h1 id=&quot;一些前置知识&quot;&gt;一些前置知识&lt;/h1&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;产品形态：人类已经适应了对话框（RTFM、Google）&lt;/li&gt;
-  &lt;li&gt;数据质量&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/xdyixia/p/13328877.html&quot;&gt;https://www.cnblogs.com/xdyixia/p/13328877.html&lt;/a&gt;
+&lt;a href=&quot;https://www.kancloud.cn/xnzhao196/masterbitcoin/1419840&quot;&gt;https://www.kancloud.cn/xnzhao196/masterbitcoin/1419840&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;总结：当前 ChatGPT 的一个最大应用：一个更好用的搜索引擎&lt;/p&gt;
+&lt;h1 id=&quot;讨论&quot;&gt;讨论&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tomli.blog/archives/2021/02/2316.html&quot;&gt;https://tomli.blog/archives/2021/02/2316.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;NIST SP 800
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;ai-破解密码的应用&quot;&gt;AI 破解密码的应用&lt;/h1&gt;
+
+&lt;p&gt;GAN Generative Adversarial Network 生成对抗网络
+&lt;a href=&quot;https://www.homesecurityheroes.com/ai-password-cracking/&quot;&gt;https://www.homesecurityheroes.com/ai-password-cracking/&lt;/a&gt;
+&lt;a href=&quot;https://github.com/zacheller/rockyou&quot;&gt;https://github.com/zacheller/rockyou&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;tools&quot;&gt;tools&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://excalidraw.com/&quot;&gt;https://excalidraw.com/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="助记词" /><summary type="html">一些前置知识</summary></entry><entry><title type="html">AI101</title><link href="http://localhost:4000/ai101/" rel="alternate" type="text/html" title="AI101" /><published>2023-04-19T00:00:00+08:00</published><updated>2023-04-19T00:00:00+08:00</updated><id>http://localhost:4000/ai101</id><content type="html" xml:base="http://localhost:4000/ai101/">&lt;h1 id=&quot;人工智能的历史&quot;&gt;人工智能的历史&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1997 深蓝&lt;/li&gt;
+  &lt;li&gt;2016 AlphaGo&lt;/li&gt;
+  &lt;li&gt;2023 ChatGPT&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://img2023.cnblogs.com/blog/120296/202304/120296-20230413212715449-792849795.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -17,16 +36,65 @@ symbolicism connectionism actionism&lt;/p&gt;
 
 &lt;h1 id=&quot;视频&quot;&gt;视频&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/SdZCOVaaVds&quot;&gt;https://youtu.be/SdZCOVaaVds&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://youtu.be/ZFnN-sMK7GU&quot;&gt;https://youtu.be/ZFnN-sMK7GU&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1WT411H7nD&quot;&gt;https://www.bilibili.com/video/BV1WT411H7nD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/SdZCOVaaVds&quot;&gt;https://youtu.be/SdZCOVaaVds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/ZFnN-sMK7GU&quot;&gt;https://youtu.be/ZFnN-sMK7GU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;博客&quot;&gt;博客&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[云风&lt;/td&gt;
+          &lt;td&gt;学习神经网络的一点笔记](https://blog.codingnow.com/2023/03/feedforward_nn.html)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[云风&lt;/td&gt;
+          &lt;td&gt;继续学习神经网络](https://blog.codingnow.com/2023/03/cnn.html)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;书籍&quot;&gt;书籍&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://lib.delia.love/a-brief-history-of-artificial-intelligence/&quot;&gt;https://lib.delia.love/a-brief-history-of-artificial-intelligence/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lib.delia.love/a-brief-history-of-artificial-intelligence/&quot;&gt;https://lib.delia.love/a-brief-history-of-artificial-intelligence/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lib.delia.love/the-master-algorithm/&quot;&gt;终极算法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;人物&quot;&gt;人物&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://evjang.com/&quot;&gt;Eric Jang&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="AI" /><summary type="html">ChatCPT 的两个优势</summary></entry><entry><title type="html">JavaScript</title><link href="http://localhost:4000/javascript/" rel="alternate" type="text/html" title="JavaScript" /><published>2023-04-18T00:00:00+08:00</published><updated>2023-04-18T00:00:00+08:00</updated><id>http://localhost:4000/javascript</id><content type="html" xml:base="http://localhost:4000/javascript/">&lt;blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sam_Altman&quot;&gt;Sam Altman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/13CZPWmke6A&quot;&gt;Ilya Sutskever&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chatgpt&quot;&gt;ChatGPT&lt;/h1&gt;
+
+&lt;p&gt;教程 &lt;a href=&quot;https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/&quot;&gt;https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;技术：Transformer + RLHF&lt;/p&gt;
+
+&lt;p&gt;优势：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;产品形态：人类已经适应了对话框（RTFM、Google）&lt;/li&gt;
+  &lt;li&gt;暂时没有商业利益，之间给出高质量的数据&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;总结：当前 ChatGPT 的一个最大应用：一个更好用的搜索引擎&lt;/p&gt;</content><author><name>Hofer</name></author><category term="AI" /><summary type="html">人工智能的历史</summary></entry><entry><title type="html">JavaScript</title><link href="http://localhost:4000/javascript/" rel="alternate" type="text/html" title="JavaScript" /><published>2023-04-18T00:00:00+08:00</published><updated>2023-04-18T00:00:00+08:00</updated><id>http://localhost:4000/javascript</id><content type="html" xml:base="http://localhost:4000/javascript/">&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://blog.codinghorror.com/the-principle-of-least-power/&quot;&gt;Atwood’s Law&lt;/a&gt;:Any application that can be written in JavaScript, will eventually be written in JavaScript.&lt;br /&gt;
 — &lt;a href=&quot;https://blog.codinghorror.com/about-me/&quot;&gt;Jeff Atwood&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -40,13 +108,26 @@ symbolicism connectionism actionism&lt;/p&gt;
   &lt;p&gt;能用 JavaScript 写的最终都会用 TypeScript 写。&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;h1 id=&quot;关键词&quot;&gt;关键词&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;npm init -y&lt;/li&gt;
+  &lt;li&gt;Webpack&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&quot;前端名人堂&quot;&gt;前端名人堂&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/youyuxi&quot;&gt;尤雨溪&lt;/a&gt; &lt;a href=&quot;https://github.com/hax/heshijun_v_360&quot;&gt;贺师俊&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/youyuxi&quot;&gt;尤雨溪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hax/heshijun_v_360&quot;&gt;贺师俊&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;udemy course&lt;br /&gt;
-&lt;a href=&quot;https://www.bilibili.com/video/BV1vA4y197C7/&quot;&gt;https://www.bilibili.com/video/BV1vA4y197C7/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://github.com/jonasschmedtmann/complete-javascript-course/&quot;&gt;https://github.com/jonasschmedtmann/complete-javascript-course/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="js" /><summary type="html">Atwood’s Law:Any application that can be written in JavaScript, will eventually be written in JavaScript. — Jeff Atwood</summary></entry><entry><title type="html">6.824 Distributed Systems</title><link href="http://localhost:4000/mit6-824/" rel="alternate" type="text/html" title="6.824 Distributed Systems" /><published>2022-10-09T00:00:00+08:00</published><updated>2022-10-09T00:00:00+08:00</updated><id>http://localhost:4000/mit6-824</id><content type="html" xml:base="http://localhost:4000/mit6-824/">&lt;p&gt;课程主页&lt;br /&gt;
+&lt;p&gt;udemy course&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1vA4y197C7/&quot;&gt;https://www.bilibili.com/video/BV1vA4y197C7/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jonasschmedtmann/complete-javascript-course/&quot;&gt;https://github.com/jonasschmedtmann/complete-javascript-course/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Hofer</name></author><category term="js" /><summary type="html">Atwood’s Law:Any application that can be written in JavaScript, will eventually be written in JavaScript. — Jeff Atwood</summary></entry><entry><title type="html">6.824 Distributed Systems</title><link href="http://localhost:4000/mit6-824/" rel="alternate" type="text/html" title="6.824 Distributed Systems" /><published>2022-10-09T00:00:00+08:00</published><updated>2022-10-09T00:00:00+08:00</updated><id>http://localhost:4000/mit6-824</id><content type="html" xml:base="http://localhost:4000/mit6-824/">&lt;p&gt;课程主页&lt;br /&gt;
 &lt;a href=&quot;https://pdos.csail.mit.edu/6.824/index.html&quot;&gt;https://pdos.csail.mit.edu/6.824/index.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;csail&lt;br /&gt;
@@ -57,7 +138,12 @@ symbolicism connectionism actionism&lt;/p&gt;
 &lt;a href=&quot;https://csdiy.wiki/&quot;&gt;https://csdiy.wiki/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://learn.lianglianglee.com/&quot;&gt;https://learn.lianglianglee.com/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.koudaizy.com/&quot;&gt;https://www.koudaizy.com/&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="cs" /><summary type="html">https://www.kawabangga.com/collection https://teachyourselfcs.com/ https://csdiy.wiki/ https://learn.lianglianglee.com/ https://www.koudaizy.com/</summary></entry><entry><title type="html">科学上网</title><link href="http://localhost:4000/1984/" rel="alternate" type="text/html" title="科学上网" /><published>2022-09-05T00:00:00+08:00</published><updated>2022-09-05T00:00:00+08:00</updated><id>http://localhost:4000/1984</id><content type="html" xml:base="http://localhost:4000/1984/">&lt;h1 id=&quot;read&quot;&gt;Read&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/haoel/haoel.github.io&quot;&gt;https://github.com/haoel/haoel.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Read https://github.com/haoel/haoel.github.io</summary></entry><entry><title type="html">编程随想｜扫盲 HTTPS 和 SSL/TLS 协议</title><link href="http://localhost:4000/https-program-think/" rel="alternate" type="text/html" title="编程随想｜扫盲 HTTPS 和 SSL/TLS 协议" /><published>2022-08-16T00:00:00+08:00</published><updated>2022-08-16T00:00:00+08:00</updated><id>http://localhost:4000/https-program-think</id><content type="html" xml:base="http://localhost:4000/https-program-think/">&lt;p&gt;原文链接 &lt;a href=&quot;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&quot;&gt;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/haoel/haoel.github.io&quot;&gt;https://github.com/haoel/haoel.github.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html&quot;&gt;https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gfw.report/&quot;&gt;https://gfw.report/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Read</summary></entry><entry><title type="html">编程随想｜扫盲 HTTPS 和 SSL/TLS 协议</title><link href="http://localhost:4000/https-program-think/" rel="alternate" type="text/html" title="编程随想｜扫盲 HTTPS 和 SSL/TLS 协议" /><published>2022-08-16T00:00:00+08:00</published><updated>2022-08-16T00:00:00+08:00</updated><id>http://localhost:4000/https-program-think</id><content type="html" xml:base="http://localhost:4000/https-program-think/">&lt;p&gt;原文链接 &lt;a href=&quot;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&quot;&gt;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;引子&quot;&gt;引子&lt;/h1&gt;
 
@@ -1028,6 +1114,15 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git &lt;span clas
 &lt;span class=&quot;nb&quot;&gt;sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;s/^#ClientAliveCountMax.*/ClientAliveCountMax 720/&apos;&lt;/span&gt; /etc/ssh/sshd_config
 systemctl restart ssh
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;curl -sL https://deb.nodesource.com/setup_18.x&lt;/td&gt;
+      &lt;td&gt;sudo -E bash -&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;apt-get install net-tools&lt;/p&gt;
 
