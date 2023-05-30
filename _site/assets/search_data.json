@@ -78,6 +78,8 @@
   
   
   
+  
+  
 
   
     {
@@ -158,6 +160,14 @@
       
       "url"      : "http://localhost:4000/128bits/",
       "keywords" : "助记词"
+    } ,
+  
+    {
+      "title"    : "bitcoin resources",
+      "category" : "bitcoin",
+      
+      "url"      : "http://localhost:4000/bitcoin/",
+      "keywords" : "bitcoin"
     } ,
   
     {

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-15T00:28:03+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hofer’s Blog</title><subtitle>编程随想</subtitle><author><name>Hofer</name></author><entry><title type="html">12位助记词安全吗</title><link href="http://localhost:4000/128bits/" rel="alternate" type="text/html" title="12位助记词安全吗" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/128bits</id><content type="html" xml:base="http://localhost:4000/128bits/">&lt;h1 id=&quot;一些前置知识&quot;&gt;一些前置知识&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-30T11:31:25+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hofer’s Blog</title><subtitle>编程随想</subtitle><author><name>Hofer</name></author><entry><title type="html">bitcoin resources</title><link href="http://localhost:4000/bitcoin/" rel="alternate" type="text/html" title="bitcoin resources" /><published>2023-05-22T00:00:00+08:00</published><updated>2023-05-22T00:00:00+08:00</updated><id>http://localhost:4000/bitcoin</id><content type="html" xml:base="http://localhost:4000/bitcoin/">&lt;h1 id=&quot;视频教程&quot;&gt;视频教程&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&quot;&gt;MIT MAS.S62 Cryptocurrency Engineering and Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Hofer</name></author><category term="bitcoin" /><summary type="html">视频教程</summary></entry><entry><title type="html">12位助记词安全吗</title><link href="http://localhost:4000/128bits/" rel="alternate" type="text/html" title="12位助记词安全吗" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/128bits</id><content type="html" xml:base="http://localhost:4000/128bits/">&lt;h1 id=&quot;一些前置知识&quot;&gt;一些前置知识&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/xdyixia/p/13328877.html&quot;&gt;https://www.cnblogs.com/xdyixia/p/13328877.html&lt;/a&gt;
 &lt;a href=&quot;https://www.kancloud.cn/xnzhao196/masterbitcoin/1419840&quot;&gt;https://www.kancloud.cn/xnzhao196/masterbitcoin/1419840&lt;/a&gt;&lt;/p&gt;
@@ -143,6 +147,7 @@ symbolicism connectionism actionism&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/haoel/haoel.github.io&quot;&gt;https://github.com/haoel/haoel.github.io&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html&quot;&gt;https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gfw.report/&quot;&gt;https://gfw.report/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://civicforum.github.io/online_security.html&quot;&gt;https://civicforum.github.io/online_security.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Hofer</name></author><category term="Tool" /><summary type="html">Read</summary></entry><entry><title type="html">编程随想｜扫盲 HTTPS 和 SSL/TLS 协议</title><link href="http://localhost:4000/https-program-think/" rel="alternate" type="text/html" title="编程随想｜扫盲 HTTPS 和 SSL/TLS 协议" /><published>2022-08-16T00:00:00+08:00</published><updated>2022-08-16T00:00:00+08:00</updated><id>http://localhost:4000/https-program-think</id><content type="html" xml:base="http://localhost:4000/https-program-think/">&lt;p&gt;原文链接 &lt;a href=&quot;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&quot;&gt;https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;引子&quot;&gt;引子&lt;/h1&gt;
@@ -1189,46 +1194,4 @@ windows 10、windows11 office365 官网下载地址：&lt;br /&gt;
 
 &lt;h1 id=&quot;相关网站&quot;&gt;相关网站&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://zh.wikiquote.org/&quot;&gt;https://zh.wikiquote.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://program-think.blogspot.com/2014/08/maxim.html&quot;&gt;https://program-think.blogspot.com/2014/08/maxim.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="quotes" /><summary type="html">从小开始，我就拒绝接受没有弄明白的道理。～云风</summary></entry><entry><title type="html">Java Roadmap</title><link href="http://localhost:4000/java-roadmap/" rel="alternate" type="text/html" title="Java Roadmap" /><published>2022-08-01T00:00:00+08:00</published><updated>2022-08-01T00:00:00+08:00</updated><id>http://localhost:4000/java-roadmap</id><content type="html" xml:base="http://localhost:4000/java-roadmap/">&lt;h1 id=&quot;多线程与高并发&quot;&gt;多线程与高并发&lt;/h1&gt;
-&lt;p&gt;进程、线程、协程&lt;br /&gt;
-并行、并发&lt;br /&gt;
-同步、异步&lt;br /&gt;
-死锁、饥饿、活锁&lt;br /&gt;
-线程安全&lt;br /&gt;
-Java内存模型 Java Memory Model JMM&lt;br /&gt;
-创建线程的三种方式&lt;br /&gt;
-1 继承 Thread 类&lt;br /&gt;
-2 实现 Runnable 接口&lt;br /&gt;
-3 使用线程池&lt;br /&gt;
-线程的状态 new、ready、running、block、dead&lt;/p&gt;
-
-&lt;p&gt;synchronized、ReentrantLock&lt;br /&gt;
-Semaphore、CountDownLatch、CyclicBarrier、Condition&lt;br /&gt;
-Callable、Future&lt;/p&gt;
-
-&lt;h1 id=&quot;缓存&quot;&gt;缓存&lt;/h1&gt;
-&lt;p&gt;缓存穿透、缓存击穿、缓存雪崩&lt;/p&gt;
-&lt;h2 id=&quot;redis&quot;&gt;Redis&lt;/h2&gt;
-&lt;p&gt;跳表&lt;/p&gt;
-
-&lt;h2 id=&quot;caffeine&quot;&gt;Caffeine&lt;/h2&gt;
-
-&lt;h1 id=&quot;大key&quot;&gt;大Key&lt;/h1&gt;
-&lt;p&gt;工具 rdb_bigkeys&lt;/p&gt;
-
-&lt;h1 id=&quot;算法&quot;&gt;算法&lt;/h1&gt;
-
-&lt;h1 id=&quot;分布式系统的一致性&quot;&gt;分布式系统的一致性&lt;/h1&gt;
-&lt;p&gt;zookeeper&lt;br /&gt;
-拜占庭将军问题&lt;br /&gt;
-paxos raft&lt;/p&gt;
-
-&lt;h1 id=&quot;分布式事务&quot;&gt;分布式事务&lt;/h1&gt;
-&lt;p&gt;Seata&lt;/p&gt;
-
-&lt;h1 id=&quot;状态机&quot;&gt;状态机&lt;/h1&gt;
-
-&lt;h1 id=&quot;more&quot;&gt;More&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/alibaba/canal&quot;&gt;https://github.com/alibaba/canal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Hofer</name></author><category term="Java" /><summary type="html">多线程与高并发 进程、线程、协程 并行、并发 同步、异步 死锁、饥饿、活锁 线程安全 Java内存模型 Java Memory Model JMM 创建线程的三种方式 1 继承 Thread 类 2 实现 Runnable 接口 3 使用线程池 线程的状态 new、ready、running、block、dead</summary></entry></feed>
+&lt;a href=&quot;https://program-think.blogspot.com/2014/08/maxim.html&quot;&gt;https://program-think.blogspot.com/2014/08/maxim.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Hofer</name></author><category term="quotes" /><summary type="html">从小开始，我就拒绝接受没有弄明白的道理。～云风</summary></entry></feed>

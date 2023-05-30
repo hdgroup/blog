@@ -4,8 +4,4 @@
 
 # Jekyll
 
-1 command
-
-```sh
 bundle exec jekyll serve
-```
