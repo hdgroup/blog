@@ -83,6 +83,14 @@
 
   
     {
+      "title"    : "Environment Init",
+      "category" : "Tool",
+      
+      "url"      : "http://localhost:4000/0/",
+      "keywords" : "macOS,Tool"
+    } ,
+  
+    {
       "title"    : "Java Roadmap",
       "category" : "Java",
       
@@ -96,14 +104,6 @@
       
       "url"      : "http://localhost:4000/quotes/",
       "keywords" : "quotes"
-    } ,
-  
-    {
-      "title"    : "Environment Init",
-      "category" : "Tool",
-      
-      "url"      : "http://localhost:4000/0/",
-      "keywords" : "macOS,Tool"
     } ,
   
     {
